@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'SlotAppService-68929'
           slot-name: 'slotAppServiceSlotOne-68929'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C06255FE42E4F9E88F78D4CA77C23B0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE80F9E714994AFFAFE27426BF2DB71A }}
           package: .
